@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **divyprakash.vns@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1A6GnIh4_cW0b8NKNYbsmw6-WjSs-IZ68/view?usp=sharing](https://drive.google.com/file/d/1A6GnIh4_cW0b8NKNYbsmw6-WjSs-IZ68/view?usp=sharing](https://drive.google.com/file/d/1EjjuC_SmbwRgy_AV-jm0TNYkpQSrw378/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1EjjuC_SmbwRgy_AV-jm0TNYkpQSrw378/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
