@@ -1,6 +1,6 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Divy Prakash</h1>
-<h3 align="center">Self-motivated problem solver with 3+ years experience in Android development using Kotlin and Java.</h3>
+<h3 align="center">Self-motivated problem solver with 3+ years experience in App development using Dart, Kotlin and Java.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyprakash-vns&label=Profile%20views&color=0e75b6&style=flat" alt="divyprakash-vns" /> </p>
